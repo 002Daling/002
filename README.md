@@ -1,1 +1,2 @@
 # 002
+H743iit6压缩包里面是STM32主控的源文件,tcp压缩包里面的是esp32-s3的esp-idf源文件,ProDocument_Schematic3_1_2024-05-27是嘉立创专业版的工程文件,Android_Apps压缩包是android studio开发的app，
